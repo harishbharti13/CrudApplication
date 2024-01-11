@@ -1,4 +1,4 @@
-package com.npst.NPST_CRUD_APP.Exception;
+package com.npst.TEST_CRUD_APP.Exception;
 
 public class LeadAlreadyExistsException extends RuntimeException {
 

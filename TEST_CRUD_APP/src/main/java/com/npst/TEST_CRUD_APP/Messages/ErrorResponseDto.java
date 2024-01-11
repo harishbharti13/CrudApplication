@@ -1,4 +1,4 @@
-package com.npst.NPST_CRUD_APP.Messages;
+package com.npst.TEST_CRUD_APP.Messages;
 
 import java.util.List;
 

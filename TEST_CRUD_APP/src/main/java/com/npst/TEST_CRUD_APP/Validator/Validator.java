@@ -1,9 +1,7 @@
-package com.npst.NPST_CRUD_APP.Validator;
+package com.npst.TEST_CRUD_APP.Validator;
 
 import org.springframework.stereotype.Service;
 import org.springframework.validation.annotation.Validated;
-
-import java.util.regex.Pattern;
 
 @Validated
 @Service

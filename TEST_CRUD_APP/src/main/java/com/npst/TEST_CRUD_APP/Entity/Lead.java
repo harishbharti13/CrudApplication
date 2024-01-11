@@ -1,10 +1,9 @@
-package com.npst.NPST_CRUD_APP.Entity;
+package com.npst.TEST_CRUD_APP.Entity;
 
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
-import javax.validation.constraints.Size;
 
 
 @Entity

@@ -1,6 +1,6 @@
-package com.npst.NPST_CRUD_APP.Repository;
+package com.npst.TEST_CRUD_APP.Repository;
 
-import com.npst.NPST_CRUD_APP.Entity.Lead;
+import com.npst.TEST_CRUD_APP.Entity.Lead;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

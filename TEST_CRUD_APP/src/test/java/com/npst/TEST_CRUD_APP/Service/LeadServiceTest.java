@@ -1,9 +1,8 @@
 package com.npst.TEST_CRUD_APP.Service;
 
-import com.npst.NPST_CRUD_APP.Entity.Lead;
-import com.npst.NPST_CRUD_APP.Exception.LeadAlreadyExistsException;
-import com.npst.NPST_CRUD_APP.Repository.LeadRepository;
-import com.npst.NPST_CRUD_APP.Service.LeadService;
+import com.npst.TEST_CRUD_APP.Entity.Lead;
+import com.npst.TEST_CRUD_APP.Exception.LeadAlreadyExistsException;
+import com.npst.TEST_CRUD_APP.Repository.LeadRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;

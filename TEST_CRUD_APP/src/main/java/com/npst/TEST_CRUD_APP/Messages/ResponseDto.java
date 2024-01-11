@@ -1,4 +1,4 @@
-package com.npst.NPST_CRUD_APP.Messages;
+package com.npst.TEST_CRUD_APP.Messages;
 
 public class ResponseDto {
         private String status;
